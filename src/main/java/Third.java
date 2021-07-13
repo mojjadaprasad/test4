@@ -5,6 +5,7 @@ public class Third {
 		// TODO Auto-generated method stub
 System.out.println("hello prasad");
 System.out.println("hai prasad ");
+System.out.println("hello prasad");
 	}
 
 }
